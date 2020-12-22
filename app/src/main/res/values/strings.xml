@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CataPushDemoImg</string>
+    <string name="catapush_notification_channel_name">zzChannelImg</string>
+    <string name="catapush_notification_channel_id">it.hw.catapushdemoimg.zzChannel</string>
+</resources>
